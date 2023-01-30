@@ -1,6 +1,6 @@
 #News Application v2.0
 
-It is my next (and working) version "News" application. This time without Spring using, based on Core Java and News API Client from API documentation.
+It is second version of "News" application. This time based on Core Java and News API Client from API documentation.
 
 Required application features:
 1. Uses the public API https://newsapi.org
@@ -13,5 +13,3 @@ My comments:
 
 To do:
 1. Better method separation.
-2. Parsing articles data without null values.
-3. Write tests.
